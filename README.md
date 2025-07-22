@@ -11,5 +11,4 @@ Este es un **conversor de monedas** desarrollado en Java que utiliza la API púb
 - Interfaz por consola amigable
 - Consumo de API REST usando `HttpClient` y deserialización con `Gson`
 
-## 📦 Estructura del proyecto
 
